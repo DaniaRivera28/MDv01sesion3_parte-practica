@@ -21,7 +21,7 @@ table(barreras$ENTIDAD)
 unique(barreras$ENTIDAD)
 
 
-
+barreras$TIPO_ENTIDAD <- "Otros" # creando variables poniendo otros como ejemplo
 barreras$TIPO_BARRERA <- "Otros" # creando variables poniendo otros como ejemplo
 barreras$TIPO_ADECUACION <- "Otros" # creando variables poniendo otros como ejemplo
 
